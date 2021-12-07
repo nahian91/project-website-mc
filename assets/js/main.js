@@ -9,8 +9,7 @@
 			items: 1,
 			autoplay: true,
 			loop: true,
-			nav: false,
-			dots: true,
+			dots: false,
 			smartSpeed: 500
 		});
 

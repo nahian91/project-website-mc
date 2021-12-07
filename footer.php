@@ -1,3 +1,20 @@
+<section class="subscribe-area">
+    <div class="container text-center">
+        <div class="row">
+            <div class="col-xl-8 mx-auto">
+                <div class="subscribe">
+                    <h4>Subscribe our newsletter</h4>
+                    <p>Your download should start automatically, if not Click here.</p>
+                    <form action="">
+                        <input type="email" placeholder="Your Email">
+                        <input type="submit" value="Subscribe Now">
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
 <footer class="footer-area" style="background-image:url('assets/img/footer-back.jpg')">
     <div class="container">
         <div class="row">
@@ -11,7 +28,7 @@
                     <a href=""><i class="fab fa-linkedin-in"></i></a>
                 </div>
             </div>
-            <div class="col-md-2 offset-md-1">
+            <div class="col-md-2">
                 <div class="single-footer">
                     <h4>about us</h4>
                     <ul>
@@ -35,7 +52,16 @@
                     </ul>
                 </div>
             </div>
-            <div class="col-md-4">
+            <div class="col-md-2">
+                <div class="single-footer">
+                    <h4>useful links</h4>
+                    <ul>
+                        <li><a href=""><i class="fas fa-angle-double-right"></i> Privacy Policy</a></li>
+                        <li><a href=""><i class="fas fa-angle-double-right"></i> Terms & Conditions</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-3">
                 <div class="single-footer contact">
                     <h4>get in touch</h4>
                     <ul>
@@ -53,15 +79,7 @@
 <div class="footer-bottom">
     <div class="container">
         <div class="row align-items-center">
-            <div class="col-md-6">
-                <div class="footer-list">
-                    <ul>
-                        <li><a href="">privacy policy</a></li>
-                        <li><a href="">terms & conditions</a></li>
-                    </ul>
-                </div>
-            </div>
-            <div class="col-md-6 text-end">
+            <div class="col-md-12 text-center">
                 <p>&copy; 2022 | Design & Developed by <a href="https://www.infinityflamesoft.com/">Infinity Flame Soft.</a></p>
             </div>
         </div>
