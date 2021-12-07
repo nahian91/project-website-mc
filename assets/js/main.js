@@ -14,5 +14,12 @@
 			smartSpeed: 500
 		});
 
+		$('.gallery-images').magnificPopup({
+			type:'image',
+			gallery:{
+				enabled:true
+			}
+		});
+
 	});
 }(jQuery));

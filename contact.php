@@ -20,21 +20,21 @@
             <div class="col-md-9 mx-auto">
                 <div class="row">
                     <div class="col-md-4">
-                        <div class="single-contact">
+                        <div class="single-contact item1">
                             <i class="fas fa-map-marker-alt"></i>
                             <h4>address</h4>
                             <p>Manikpir Road, Sylhet</p>
                         </div>
                     </div>
                     <div class="col-md-4">
-                        <div class="single-contact">
+                        <div class="single-contact item2">
                             <i class="fas fa-phone-alt"></i>
                             <h4>phone</h4>
                             <p>11223344</p>
                         </div>
                     </div>
                     <div class="col-md-4">
-                        <div class="single-contact">
+                        <div class="single-contact item3">
                             <i class="far fa-envelope"></i>
                             <h4>email</h4>
                             <p>info@website.com</p>
@@ -42,10 +42,7 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-md-5">
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3618.958207175345!2d91.87573175016479!3d24.899407149750232!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x375054d17657f979%3A0xc3251b0bedbea222!2z4Ka44Ka_4Kay4KeH4KafIOCmruCmueCmv-CmsuCmviDgpq7gpqHgp4fgprIg4KaV4Kay4KeH4Kac!5e0!3m2!1sbn!2sbd!4v1638792386755!5m2!1sbn!2sbd" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-                    </div>
-                    <div class="col-md-7">
+                    <div class="col-md-12">
                         <div class="contact-form">
                             <form action="">
                                 <div class="row">
@@ -55,9 +52,11 @@
                                     <div class="col-md-6">
                                         <input type="text" placeholder="Subject">
                                     </div>
-                                    <input type="email" placeholder="Email">
-                                    <textarea placeholder="Message"></textarea>
-                                    <input type="submit" value="Send Message">
+                                    <div class="col-md-12">
+                                        <input type="email" placeholder="Email">
+                                        <textarea placeholder="Message"></textarea>
+                                        <input type="submit" value="Send Message">
+                                    </div>
                                 </div>
                             </form>
                         </div>
@@ -67,5 +66,9 @@
         </div>
     </div>
 </section>
+
+<div class="map">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3618.958207175345!2d91.87573175016479!3d24.899407149750232!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x375054d17657f979%3A0xc3251b0bedbea222!2z4Ka44Ka_4Kay4KeH4KafIOCmruCmueCmv-CmsuCmviDgpq7gpqHgp4fgprIg4KaV4Kay4KeH4Kac!5e0!3m2!1sbn!2sbd!4v1638792386755!5m2!1sbn!2sbd" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+</div>
 
 <?php include('footer.php');?>
