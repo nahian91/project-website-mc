@@ -58,7 +58,7 @@
       <div class="container feature-box-top">
          <div class="row">
             <div class="col-md-4">
-               <div class="single-feature-box">
+               <div class="single-feature-box feature-box1">
                   <i class="far fa-thumbs-up"></i>
                   <div class="single-feature-box-content">
                      <h4>Popular Courses <span>Lorem ipsum dolor sit, amet consectetur elit.</span></h4>
@@ -66,7 +66,7 @@
                </div>
             </div>
             <div class="col-md-4">
-               <div class="single-feature-box">
+               <div class="single-feature-box feature-box2">
                   <i class="fas fa-chalkboard-teacher"></i>
                   <div class="single-feature-box-content">
                      <h4>Qualified Teacher <span>Lorem ipsum dolor sit, amet consectetur elit.</span></h4>
@@ -74,7 +74,7 @@
                </div>
             </div>
             <div class="col-md-4">
-               <div class="single-feature-box">
+               <div class="single-feature-box feature-box3">
                   <i class="fas fa-book-reader"></i>
                   <div class="single-feature-box-content">
                      <h4>Modern Library <span>Lorem ipsum dolor sit, amet consectetur elit.</span></h4>
@@ -95,10 +95,10 @@
 					</div>
 				</div>
 			</div>
-			<div class="row">
+			<div class="row align-items-center">
 				<div class="col-xl-6">
 					<div class="about-text">
-						<h4>welcome to our company</h4>
+						<h4>About Central Women's College</h4>
 						<p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eveniet, aliquid perspiciatis error temporibus reprehenderit sunt commodi repudiandae rem rerum quidem nihil harum iusto illo amet. Autem magnam quo dicta animi.</p>
 						<p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eveniet, aliquid perspiciatis error temporibus reprehenderit sunt commodi repudiandae rem rerum quidem nihil harum iusto illo amet. Autem magnam quo dicta animi.</p>
 						<ul>
@@ -118,14 +118,16 @@
 				</div>
 				<div class="col-xl-6">
 					<div class="about-img">
-						<img src="assets/img/about.jpg" alt="">
+						<div class="about-img-1" style="background-image:url('assets/img/about/about1.jpg')"></div>
+						<div class="about-img-2" style="background-image:url('assets/img/about/about2.jpg')"></div>
+						<div class="about-img-3" style="background-image:url('assets/img/about/about3.jpg')"></div>
+						<div class="about-img-4" style="background-image:url('assets/img/about/about4.jpg')"></div>
 					</div>
 				</div>
 			</div>
 			<div class="row pt-100">
 				<div class="col-xl-4">
 					<div class="single-about">
-						<i class="bi bi-article"></i>
 						<h4>our mission</h4>
 						<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latinin contaversy. </p>
 						<a href="">read more <i class="fas fa-long-arrow-alt-right"></i></a>
@@ -133,7 +135,6 @@
 				</div>
 				<div class="col-xl-4">
 					<div class="single-about">
-						<i class="bi bi-article"></i>
 						<h4>our vission</h4>
 						<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latinin contaversy. </p>
 						<a href="">read more <i class="fas fa-long-arrow-alt-right"></i></a>
@@ -141,7 +142,6 @@
 				</div>
 				<div class="col-xl-4">
 					<div class="single-about">
-						<i class="bi bi-article"></i>
 						<h4>our history</h4>
 						<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latinin contaversy. </p>
 						<a href="">read more <i class="fas fa-long-arrow-alt-right"></i></a>
@@ -156,30 +156,30 @@
             <div class="row">
                <div class="col-md-3">
                   <div class="single-counter counter1">
-                     <i class="fas fa-angle-double-right"></i>
-                     <h4><span>5000</span> +</h4>
+				  	<i class="fas fa-users"></i>
+                     <h4><span class="counter">5</span> K+</h4>
                      <p>students</p>
                   </div>
                </div>
                <div class="col-md-3">
                   <div class="single-counter counter2">
-                     <i class="fas fa-angle-double-right"></i>
-                     <h4><span>5000</span> +</h4>
-                     <p>students</p>
+				  	<i class="fas fa-chalkboard-teacher"></i>
+                     <h4><span class="counter">50</span></h4>
+                     <p>teachers</p>
                   </div>
                </div>
                <div class="col-md-3">
                   <div class="single-counter counter3">
-                     <i class="fas fa-angle-double-right"></i>
-                     <h4><span>5000</span> +</h4>
-                     <p>students</p>
+				  	<i class="fas fa-people-carry"></i>
+                     <h4><span class="counter">20</span></h4>
+                     <p>staffs</p>
                   </div>
                </div>
                <div class="col-md-3">
                   <div class="single-counter counter4">
-                     <i class="fas fa-angle-double-right"></i>
-                     <h4><span>5000</span> +</h4>
-                     <p>students</p>
+				  	<i class="fas fa-user-graduate"></i>
+                     <h4><span class="counter">7</span> K+</h4>
+                     <p>graduate</p>
                   </div>
                </div>
             </div>
@@ -196,29 +196,29 @@
 						<div class="row">
 							<div class="col-xl-6">
 								<div class="feature-box">
-									<i class="bi bi-article"></i>
-									<h5>modern design</h5>
+									<i class="far fa-user"></i>
+									<h5>SKILLED LECTURERS</h5>
 									<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latinin contaversy. </p>
 								</div>
 							</div>
 							<div class="col-xl-6">
 								<div class="feature-box">
-									<i class="bi bi-article"></i>
-									<h5>mobile firendly</h5>
+									<i class="fas fa-book-open"></i>
+									<h5>BOOK LIBRARY</h5>
 									<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latinin contaversy. </p>
 								</div>
 							</div>
 							<div class="col-xl-6">
 								<div class="feature-box">
-									<i class="bi bi-article"></i>
-									<h5>error free</h5>
+									<i class="fas fa-globe-europe"></i>
+									<h5>ONLINE CLASSES</h5>
 									<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latinin contaversy. </p>
 								</div>
 							</div>
 							<div class="col-xl-6">
 								<div class="feature-box">
-									<i class="bi bi-article"></i>
-									<h5>24/7 support</h5>
+									<i class="far fa-address-book"></i>
+									<h5>HOME PROJECTS</h5>
 									<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latinin contaversy. </p>
 								</div>
 							</div>
@@ -291,7 +291,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-xl-8 mx-auto">
-					<a class="video-play-btn" href="https://www.youtube.com/embed/Wimkqo8gDZ0" data-effect="mfp-zoom-in"><i class="fas fa-play-circle"></i></a>					
+					<a class="video-play-btn" href="https://www.youtube.com/embed/Wimkqo8gDZ0"><i class="fas fa-play-circle"></i></a>					
 					<h4>Watch Campus Life Video Tour</h4>
 					<p>we believe everyone should have the to create progress through technology and develop the skills of tomorrow. assessments, learning</p>
 				</div>

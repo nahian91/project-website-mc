@@ -91,6 +91,8 @@
 <script src="assets/js/bootstrap.min.js"></script>
 <script src="assets/js/owl-carousel.min.js"></script>
 <script src="assets/js/magnific-popup.min.js"></script>
+<script src="assets/js/waypoint.min.js"></script>
+<script src="assets/js/counterup.min.js"></script>
 <script src="assets/js/main.js"></script>
 </body>
 </html>
