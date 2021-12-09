@@ -111,7 +111,7 @@ p {
   height: 100%;
   left: 0;
   top: 0;
-  background-color: #333;
+  background-color: #111d5e;
   opacity: 0.85;
   z-index: -1;
 }
@@ -480,6 +480,10 @@ p {
 
 /* Contact CSS */
 
+.map {
+  border-top: 3px solid #eee;
+  margin-bottom: -150px;
+}
 .single-contact {
   text-align: center;
   border: 1px solid #f4f4f4;
@@ -514,10 +518,14 @@ p {
   border-radius: 50%;
 }
 .single-contact h4 {
-  text-transform: capitalize;
+  text-transform: uppercase;
   margin-top: 16px;
   font-size: 24px;
-  font-weight: 600;
+  font-weight: 800;
+}
+.single-contact p {
+  font-weight: 500;
+  font-size: 18px;
 }
 .contact-area iframe {
   width: 100%;
@@ -539,12 +547,15 @@ p {
   margin: 0;
 }
 .contact-form input[type="submit"] {
-  background-color: #ff5e18;
+  background-color: #111d5e;
   color: #fff;
   text-transform: uppercase;
   font-weight: 700;
   cursor: pointer;
   border: 0;
+  width: 200px;
+  margin: 0 auto;
+  display: block;
 }
 .contact-form textarea {
   height: 225px;
@@ -598,7 +609,7 @@ p {
   content: "";
   width: 40px;
   height: 2px;
-  background-color: #ff5e18;
+  background-color: #e32845;
   bottom: -15px;
 }
 .single-footer ul {
@@ -666,7 +677,7 @@ p {
   color: #fff;
   text-align: center;
   top: -27px;
-  background-color: #00875c;
+  background-color: #030d4a;
   transform: translate(-50%, -50%);
   padding: 15px;
   font-weight: 600;
@@ -1073,7 +1084,7 @@ p {
   line-height: 1.8;
 }
 .blog-info {
-  padding: 10px;
+  padding: 7px;
   margin: 20px;
   margin-top: -25px;
   background-color: #fff;
@@ -1102,7 +1113,8 @@ p {
 }
 .blog-info ul li a {
   display: inline-block;
-  font-size: 18px;
+  font-size: 16px;
+  font-weight: 600;
 }
 .blog-content {
   padding: 10px;
@@ -1302,6 +1314,7 @@ p {
 .event-box {
   display: flex;
   align-items: center;
+  position: relative;
 }
 .event-date {
   margin-right: 25px;
@@ -1414,4 +1427,100 @@ p {
 }
 .speech p {
   margin-bottom: 20px;
+}
+.blog-page .single-blog {
+  margin-bottom: 40px;
+}
+
+.career {
+  margin-bottom: 60px;
+}
+.career-list ul li {
+  margin-bottom: 5px;
+  padding-bottom: 5px;
+  font-weight: 500;
+}
+.career-list ul li i {
+  color: #111d5e;
+  margin-right: 5px;
+}
+.career-list ul li a {
+  color: #111d5e;
+  font-weight: 700;
+  margin-top: 10px;
+  display: inline-block;
+  border-bottom: 2px solid #111d5e;
+}
+
+.hostel-img img {
+  width: 100%;
+  border: 1px solid #ddd;
+  padding: 3px;
+}
+.hostel-content p {
+  margin-bottom: 18px;
+  line-height: 28px;
+}
+.hostel-facilities {
+  margin: 40px 0;
+}
+
+.hostel-facilities {
+  display: flex;
+  align-items: center;
+}
+.hostel-facilities ul {
+  margin: 0 20px;
+}
+.hostel-facilities ul li {
+  line-height: 20px;
+  margin-bottom: 20px;
+  font-weight: 600;
+}
+
+.page-title {
+  color: #111d5e;
+  text-transform: capitalize;
+  font-weight: 700;
+  font-size: 30px;
+  position: relative;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+}
+.single-admission {
+  margin-bottom: 50px;
+}
+.single-admission ul li {
+  margin-bottom: 5px;
+  padding-bottom: 5px;
+  font-weight: 600;
+  text-transform: capitalize;
+}
+.page-title:before {
+  position: absolute;
+  content: "";
+  width: 60px;
+  height: 3px;
+  background-color: #111d5e;
+  bottom: 0;
+}
+.single-admission p {
+  font-size: 16px;
+  line-height: 25px;
+  font-weight: 500;
+}
+
+.event-download {
+  position: absolute;
+  right: 25px;
+}
+.event-download a {
+  display: inline-block;
+  text-transform: capitalize;
+  font-weight: 600;
+  font-size: 20px;
+  padding: 10px 20px;
+  border-radius: 3px;
+  background-color: #030d4a;
+  color: #fff;
 }
