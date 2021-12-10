@@ -57,19 +57,19 @@
       <div class="container feature-box-top">
          <div class="row g-0">
             <div class="col-md-4">
-               <div class="single-feature-box feature-box1" style="background-image:url('assets/img/features/features-1.png')">
+               <div class="single-feature-box feature-box1" style="background-image:url('assets/img/features/features-1.jpg')">
                   <i class="far fa-thumbs-up"></i>
 				  <h4>Quality Teachers</h4>
                </div>
             </div>
             <div class="col-md-4">
-               <div class="single-feature-box feature-box2"  style="background-image:url('assets/img/features/features-2.png')">
+               <div class="single-feature-box feature-box2"  style="background-image:url('assets/img/features/features-2.jpg')">
                 <i class="fas fa-chalkboard-teacher"></i>
                 <h4>Best Curriculam</h4>
                </div>
             </div>
             <div class="col-md-4">
-               <div class="single-feature-box feature-box3"  style="background-image:url('assets/img/features/features-3.png')">
+               <div class="single-feature-box feature-box3"  style="background-image:url('assets/img/features/features-3.jpg')">
                   <i class="fas fa-book-reader"></i>
 				  <h4>Global Recognition</h4>
                </div>
