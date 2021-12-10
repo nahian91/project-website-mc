@@ -35,6 +35,16 @@
     });
 
     $(".counter").counterUp();
+
+    // wow animation - start
+	// --------------------------------------------------
+	function wowAnimation() {
+		new WOW({
+			offset: 100,
+			mobile: true
+		}).init()
+	}
+	wowAnimation();
   });
 
   /* Sticky Header

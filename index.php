@@ -56,19 +56,19 @@
 
       <div class="container feature-box-top">
          <div class="row g-0">
-            <div class="col-md-4">
+            <div class="col-md-4 wow fadeInUp2 animated" data-wow-delay='.1s'>
                <div class="single-feature-box feature-box1" style="background-image:url('assets/img/features/features-1.jpg')">
                   <i class="far fa-thumbs-up"></i>
 				  <h4>Quality Teachers</h4>
                </div>
             </div>
-            <div class="col-md-4">
+            <div class="col-md-4 wow fadeInUp2 animated" data-wow-delay='.2s'>
                <div class="single-feature-box feature-box2"  style="background-image:url('assets/img/features/features-2.jpg')">
                 <i class="fas fa-chalkboard-teacher"></i>
                 <h4>Best Curriculam</h4>
                </div>
             </div>
-            <div class="col-md-4">
+            <div class="col-md-4 wow fadeInUp2 animated" data-wow-delay='.3s'>
                <div class="single-feature-box feature-box3"  style="background-image:url('assets/img/features/features-3.jpg')">
                   <i class="fas fa-book-reader"></i>
 				  <h4>Global Recognition</h4>
@@ -80,9 +80,9 @@
       <section class="about-area pt-100 pb-100" id="about">
 		<div class="container">			
 			<div class="row">
-				<div class="col-xl-8 mx-auto text-center">
+				<div class="col-xl-8 mx-auto text-center wow fadeInUp2 animated" data-wow-delay='.1s'>
 					<div class="section-title">
-						<h4>what we do</h4>
+						<h4 class="wow fadeInUp2 animated" data-wow-delay='.2s'>what we do</h4>
 						<h2>about us</h2>
 						<p>Lorem Ipsum is simply dummy text of the printing and typesetting.</p>
 					</div>
@@ -90,7 +90,7 @@
 			</div>
 			<div class="row align-items-center">
 				<div class="col-xl-6">
-					<div class="about-text">
+					<div class="about-text wow fadeInUp2 animated" data-wow-delay='.1s'>
 						<h4>About Central Women's College</h4>
 						<p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eveniet, aliquid perspiciatis error temporibus reprehenderit sunt commodi repudiandae rem rerum quidem nihil harum iusto illo amet. Autem magnam quo dicta animi.</p>
 						<p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eveniet, aliquid perspiciatis error temporibus reprehenderit sunt commodi repudiandae rem rerum quidem nihil harum iusto illo amet. Autem magnam quo dicta animi.</p>
@@ -110,7 +110,7 @@
 					</div>
 				</div>
 				<div class="col-xl-6">
-					<div class="about-img">
+					<div class="about-img wow fadeInUp2 animated" data-wow-delay='.1s'>
 						<div class="about-img-1" style="background-image:url('assets/img/about/about1.jpg')"></div>
 						<div class="about-img-2" style="background-image:url('assets/img/about/about2.jpg')"></div>
 						<div class="about-img-3" style="background-image:url('assets/img/about/about3.jpg')"></div>
@@ -120,21 +120,21 @@
 			</div>
 			<div class="row pt-100">
 				<div class="col-xl-4">
-					<div class="single-about">
+					<div class="single-about wow fadeInUp2 animated" data-wow-delay='.1s'>
 						<h4>our mission</h4>
 						<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latinin contaversy. </p>
 						<a href="">read more <i class="fas fa-long-arrow-alt-right"></i></a>
 					</div>
 				</div>
 				<div class="col-xl-4">
-					<div class="single-about">
+					<div class="single-about wow fadeInUp2 animated" data-wow-delay='.2s'>
 						<h4>our vission</h4>
 						<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latinin contaversy. </p>
 						<a href="">read more <i class="fas fa-long-arrow-alt-right"></i></a>
 					</div>
 				</div>
 				<div class="col-xl-4">
-					<div class="single-about">
+					<div class="single-about wow fadeInUp2 animated" data-wow-delay='.3s'>
 						<h4>our history</h4>
 						<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latinin contaversy. </p>
 						<a href="">read more <i class="fas fa-long-arrow-alt-right"></i></a>
@@ -148,28 +148,28 @@
          <div class="container">
             <div class="row">
                <div class="col-md-3">
-                  <div class="single-counter counter1">
+                  <div class="single-counter counter1 wow fadeInUp2 animated" data-wow-delay='.1s'>
 				  	<i class="fas fa-users"></i>
                      <h4><span class="counter">5</span> K+</h4>
                      <p>students</p>
                   </div>
                </div>
                <div class="col-md-3">
-                  <div class="single-counter counter2">
+                  <div class="single-counter counter2 wow fadeInUp2 animated" data-wow-delay='.2s'>
 				  	<i class="fas fa-chalkboard-teacher"></i>
                      <h4><span class="counter">50</span></h4>
                      <p>teachers</p>
                   </div>
                </div>
                <div class="col-md-3">
-                  <div class="single-counter counter3">
+                  <div class="single-counter counter3 wow fadeInUp2 animated" data-wow-delay='.3s'>
 				  	<i class="fas fa-people-carry"></i>
                      <h4><span class="counter">20</span></h4>
                      <p>staffs</p>
                   </div>
                </div>
                <div class="col-md-3">
-                  <div class="single-counter counter4">
+                  <div class="single-counter counter4 wow fadeInUp2 animated" data-wow-delay='.4s'>
 				  	<i class="fas fa-user-graduate"></i>
                      <h4><span class="counter">7</span> K+</h4>
                      <p>graduate</p>
@@ -182,7 +182,7 @@
       <section class="features features-1">
 		<div class="container-fluid">
 			<div class="row">
-				<div class="col-xl-6">
+				<div class="col-xl-6 wow fadeInUp2 animated" data-wow-delay='.1s'>
 					<div class="single-feature text-center">
 						<h6>Highly Creative Solutions</h6>
 						<h4>What We Offer</h4>
@@ -222,7 +222,7 @@
 		</div>
 	  </section>
 
-	  <section class="why-us pt-100 pb-100">
+	  <section class="why-us pt-100 pb-100 wow fadeInUp2 animated" data-wow-delay='.1s'>
 	  		<div class="container">
 			  <div class="row">
 				<div class="col-xl-8 mx-auto text-center">
@@ -280,7 +280,7 @@
 			  </div>
 	  </section>
 
-     <section class="video-area text-center pt-100 pb-100">
+     <section class="video-area text-center pt-100 pb-100 wow fadeInUp2 animated" data-wow-delay='.1s'>
 		<div class="container">
 			<div class="row">
 				<div class="col-xl-8 mx-auto">
@@ -292,7 +292,7 @@
 		</div>
 	  </section>
 
-	  <section class="events-area pt-100 pb-100">
+	  <section class="events-area pt-100 pb-100 wow fadeInUp2 animated" data-wow-delay='.1s'>
 		  	<div class="container">
 			  	<div class="row align-items-center">
 				  	<div class="col-md-4">
@@ -365,7 +365,7 @@
 		  	</div>
 	  	</section>
 
-     <section class="testimonilas-area black-bg pt-100 pb-100" id="testimonials">
+     <section class="testimonilas-area black-bg pt-100 pb-100" id="testimonials wow fadeInUp2 animated" data-wow-delay='.1s'>
 		<div class="container">
 			<div class="row">
 				<div class="col-xl-8 mx-auto text-center">
@@ -413,7 +413,7 @@
 		</div>
 	  </section>
 
-     <section class="blog-area pt-100 pb-100" id="blog">
+     <section class="blog-area pt-100 pb-100" id="blog wow fadeInUp2 animated" data-wow-delay='.1s'>
 		<div class="container">
 			<div class="row">
 				<div class="col-xl-8 mx-auto text-center">

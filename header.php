@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
 
+<!-- Dynamic Title -->
 <?php
 $path=$_SERVER['PHP_SELF'];
 $title=basename($path);
@@ -59,18 +60,24 @@ break;
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Title -->
     <title><?php echo $title;?></title>
+    <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <!-- Font Awesome CSS -->
     <link rel="stylesheet" href="assets/css/font-awesome.min.css">
+    <!-- Owl Carousel CSS -->
     <link rel="stylesheet" href="assets/css/owl-carousel.css">
+    <!-- Magnific Popup CSS -->
     <link rel="stylesheet" href="assets/css/magnific.css">
-    <link
-    rel="stylesheet"
-    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
-  />
+    <!-- Animate CSS -->
+    <link rel="stylesheet" href="assets/css/animate.css"/>
+    <!-- Style CSS -->
     <link rel="stylesheet" href="assets/css/style.css">
 </head>
-    <section class="header-top animate__animated animate__bounce">
+
+    <!-- Header Top Start Here -->
+    <section class="header-top">
         <div class="container">
             <div class="row">
                 <div class="col-md-6 col-sm-12">
@@ -90,6 +97,9 @@ break;
             </div>
         </div>
     </section>
+    <!-- Header Top End Here -->
+
+    <!-- Header Area Start Here -->
     <header class="header header-fixed">
         <div class="container">
             <div class="row align-items-center">
@@ -131,8 +141,11 @@ break;
             </div>
         </div>
     </header>
+    <!-- Header Area End Here -->
+
 <body>
 
+<!-- Preloader -->
 <div id="preloader">
   <div id="loader"></div>
 </div>
