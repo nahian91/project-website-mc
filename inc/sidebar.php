@@ -1,11 +1,11 @@
 <div class="sidebar">
     <h4>Notice Borad</h4>
     <ul>
-        <li><a href=""><i class="fas fa-long-arrow-alt-right"></i> Vestibulum at eros</a></li>
-        <li><a href=""><i class="fas fa-long-arrow-alt-right"></i> Vestibulum at eros</a></li>
-        <li><a href=""><i class="fas fa-long-arrow-alt-right"></i> Vestibulum at eros</a></li>
-        <li><a href=""><i class="fas fa-long-arrow-alt-right"></i> Vestibulum at eros</a></li>
-        <li><a href=""><i class="fas fa-long-arrow-alt-right"></i> Vestibulum at eros</a></li>
+        <li><a href=""><span>20 Jan</span> Lorem ipsum dolor sit amet.</a></li>
+        <li><a href=""><span>8 Feb</span> Lorem ipsum dolor sit amet.</a></li>
+        <li><a href=""><span>24 Mar</span> Lorem ipsum dolor sit amet.</a></li>
+        <li><a href=""><span>23 Apr</span> Lorem ipsum dolor sit amet.</a></li>
+        <li><a href=""><span>1 May</span> Lorem ipsum dolor sit amet.</a></li>
     </ul>
 </div>
 <div class="sidebar">

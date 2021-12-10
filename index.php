@@ -8,10 +8,10 @@
                      <div class="col-xl-12">
                         <div class="slide-table">
                            <div class="slide-tablecell">
-                              <h4>We Are Advanced Batch 11</h4>
-                              <h2>Digital Agency</h2>
+                              <h4>Welcome to your </h4>
+                              <h2>Sylhet women's model college</h2>
                               <p>We are a passionate digital design agency that specializes in beautiful and easy-to-use digital design & web development services.</p>
-                              <a href="#" class="box-btn">our projects <i class="fa fa-angle-double-right"></i></a>
+                              <a href="#" class="box-btn">about us <i class="fa fa-angle-double-right"></i></a>
                            </div>
                         </div>
                      </div>
@@ -24,8 +24,8 @@
                      <div class="col-xl-12">
                         <div class="slide-table">
                            <div class="slide-tablecell">
-                              <h4>We Are Halim</h4>
-                              <h2>Modern Agency</h2>
+						   	  <h4>We have </h4>
+                              <h2>Amazing Teachers & Facilities</h2>
                               <p>We are a passionate digital design agency that specializes in beautiful and easy-to-use digital design & web development services.</p>
                               <a href="#" class="box-btn">contact us <i class="fa fa-angle-double-right"></i></a>
                            </div>
@@ -40,9 +40,8 @@
                      <div class="col-xl-12">
                         <div class="slide-table">
                            <div class="slide-tablecell">
-                              <h4>
-                              We Are Halim</h4>
-                              <h2>Creative Agency</h2>
+						   	  <h4>We have modern </h4>
+                              <h2>Library & Laboratory</h2>
                               <p>We are a passionate digital design agency that specializes in beautiful and easy-to-use digital design & web development services.</p>
                               <a href="#" class="box-btn">crreative team <i class="fa fa-angle-double-right"></i></a>
                            </div>
@@ -56,29 +55,23 @@
       <!-- Slider Area Start -->  
 
       <div class="container feature-box-top">
-         <div class="row">
+         <div class="row g-0">
             <div class="col-md-4">
-               <div class="single-feature-box feature-box1">
+               <div class="single-feature-box feature-box1" style="background-image:url('assets/img/features/features-1.png')">
                   <i class="far fa-thumbs-up"></i>
-                  <div class="single-feature-box-content">
-                     <h4>Popular Courses <span>Lorem ipsum dolor sit, amet consectetur elit.</span></h4>
-                  </div>
+				  <h4>Quality Teachers</h4>
                </div>
             </div>
             <div class="col-md-4">
-               <div class="single-feature-box feature-box2">
-                  <i class="fas fa-chalkboard-teacher"></i>
-                  <div class="single-feature-box-content">
-                     <h4>Qualified Teacher <span>Lorem ipsum dolor sit, amet consectetur elit.</span></h4>
-                  </div>
+               <div class="single-feature-box feature-box2"  style="background-image:url('assets/img/features/features-2.png')">
+                <i class="fas fa-chalkboard-teacher"></i>
+                <h4>Best Curriculam</h4>
                </div>
             </div>
             <div class="col-md-4">
-               <div class="single-feature-box feature-box3">
+               <div class="single-feature-box feature-box3"  style="background-image:url('assets/img/features/features-3.png')">
                   <i class="fas fa-book-reader"></i>
-                  <div class="single-feature-box-content">
-                     <h4>Modern Library <span>Lorem ipsum dolor sit, amet consectetur elit.</span></h4>
-                  </div>
+				  <h4>Global Recognition</h4>
                </div>
             </div>
          </div>
@@ -312,13 +305,13 @@
 						<div class="row">
 							<div class="col-md-6">
 								<div class="single-event">
-									<div class="event-img" style="background-image:url('assets/img/blog/blog1.jpg')"></div>
+									<div class="event-img" style="background-image:url('assets/img/events/event1.jpg')"></div>
 									<div class="event-box">
 										<div class="event-date">
-											<p>dec<span>16</span></p>
+											<p>dec<span>20</span></p>
 										</div>
 										<div class="event-content">
-											<h4>event title</h4>
+											<h4>event title 1</h4>
 											<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, quasi.</p>
 										</div>
 									</div>
@@ -326,13 +319,13 @@
 							</div>
 							<div class="col-md-6">
 								<div class="single-event">
-									<div class="event-img" style="background-image:url('assets/img/blog/blog1.jpg')"></div>
+									<div class="event-img" style="background-image:url('assets/img/events/event2.jpg')"></div>
 									<div class="event-box">
 										<div class="event-date">
-											<p>dec<span>16</span></p>
+											<p>jan<span>06</span></p>
 										</div>
 										<div class="event-content">
-											<h4>event title</h4>
+											<h4>event title 2</h4>
 											<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, quasi.</p>
 										</div>
 									</div>
@@ -340,13 +333,13 @@
 							</div>
 							<div class="col-md-6">
 								<div class="single-event">
-									<div class="event-img" style="background-image:url('assets/img/blog/blog1.jpg')"></div>
+									<div class="event-img" style="background-image:url('assets/img/events/event3.jpg')"></div>
 									<div class="event-box">
 										<div class="event-date">
-											<p>dec<span>16</span></p>
+											<p>feb<span>11</span></p>
 										</div>
 										<div class="event-content">
-											<h4>event title</h4>
+											<h4>event title 3</h4>
 											<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, quasi.</p>
 										</div>
 									</div>
@@ -354,13 +347,13 @@
 							</div>
 							<div class="col-md-6">
 								<div class="single-event">
-									<div class="event-img" style="background-image:url('assets/img/blog/blog1.jpg')"></div>
+									<div class="event-img" style="background-image:url('assets/img/events/event4.jpg')"></div>
 									<div class="event-box">
 										<div class="event-date">
-											<p>dec<span>16</span></p>
+											<p>mar<span>27</span></p>
 										</div>
 										<div class="event-content">
-											<h4>event title</h4>
+											<h4>event title 4</h4>
 											<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, quasi.</p>
 										</div>
 									</div>
@@ -377,8 +370,8 @@
 			<div class="row">
 				<div class="col-xl-8 mx-auto text-center">
 					<div class="section-title">
-						<h4>review from clients</h4>
-						<h2>what clients say</h2>
+						<h4>review from guardians</h4>
+						<h2>what guardians say</h2>
 						<p>Lorem ipsum dolor sit amet, in quodsi vulputate pro. Ubique maluisset vel te, his dico vituperata ut. in quodsi Ubique maluisset.</p>
 					</div>
 				</div>
@@ -397,14 +390,14 @@
 							<i class="fas fa-quote-left"></i>
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. eiusmod tempor incididunt ut</p>
 							<div class="authro-info">
-								<h4><img src="assets/img/testimonials/01.png" alt="">john doe <span>web developer</span></h4>
+								<h4><img src="assets/img/testimonials/02.png" alt="">john doe <span>web developer</span></h4>
 							</div>
 						</div>
 						<div class="single-testimonial">
 							<i class="fas fa-quote-left"></i>
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. eiusmod tempor incididunt ut</p>
 							<div class="authro-info">
-								<h4><img src="assets/img/testimonials/01.png" alt="">john doe <span>web developer</span></h4>
+								<h4><img src="assets/img/testimonials/03.png" alt="">john doe <span>web developer</span></h4>
 							</div>
 						</div>
 						<div class="single-testimonial">

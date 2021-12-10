@@ -11,6 +11,7 @@
       dots: false,
       nav: true,
       smartSpeed: 500,
+      navText:["<i class='fas fa-angle-left'></i>","<i class='fas fa-angle-right'></i>"]
     });
 
     $(".testimonial").owlCarousel({
@@ -44,5 +45,9 @@
     } else {
       $(".header-fixed").removeClass("sticky");
     }
+  });
+
+  $(window).load(function () {
+    $("#preloader").fadeOut(500);
   });
 })(jQuery);
